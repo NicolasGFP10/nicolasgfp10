@@ -12,7 +12,6 @@
 
 ## Minhas Estatísticas
 <center>
-
 ![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasgfp10&show_icons=true&theme=tokyonight)
 </center>
 
