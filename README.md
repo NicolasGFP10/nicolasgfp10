@@ -112,6 +112,13 @@
  Java Script pela FATEC de Americana "Ministro Ralph Biasi"</h4></td>
       <td><h4>Concluído✅<h4></td>
     </tr>
+    <tr>
+      <td><h4>Docker para Desenvolvedores (com Docker Swarm e Kubernetes)</h4></td>
+      <td><h4>Udemy. Curso criado Matheus Battisti, Hora de Codar</h4></td>
+      <td><h4>12,5h</h4></td>
+      <td><h4>Curso que ensina o uso Docker básico ao avançado e ainda orquestração com Docker Swarm e Kubernetes</h4></td>
+      <td><h4>Cursando🕒<h4></td>
+    </tr>
     <!--  <tr>
       <td><h4></h4></td>
       <td><h4></h4></td>
