@@ -23,9 +23,9 @@
   </tr>
 </table>
 
-![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasgfp10&show_icons=true&theme=tokyonight)
+<!-- ![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasgfp10&show_icons=true&theme=tokyonight) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasgfp10&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasgfp10&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## Linguagens que tenho esperiência 💻
 
@@ -42,7 +42,7 @@
 ## Minhas Formações 📖
 
 <center>
-  <table align="center" class="table table-borderless table-dark" Width="95%">
+  <table align="center" class="table table-borderless table-dark" Width="98%">
     <thead>
       <tr>
         <th scope="col"><center>Ícone</center></th>
@@ -65,8 +65,6 @@
     </tr>
   </table>
 </center>
-
-
 
 ## Cursos Realizados 👨‍💻
 
