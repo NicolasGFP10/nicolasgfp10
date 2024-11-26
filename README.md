@@ -27,7 +27,7 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasgfp10&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
 
-## Linguagens que tenho esperiência 💻
+## Linguagens que tenho experiência 💻
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
