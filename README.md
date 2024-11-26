@@ -85,7 +85,7 @@
       <td><h4>60h</h4></td>
       <td><h4>Curso de Fundamentos de Ti (técnico de
  informática) pela Cisco NetWorking Academy</h4></td>
-      <td><h4>Concluído ✅<h4></td>
+      <td><h4>Concluído✅<h4></td>
     </tr>
     <tr>
       <td><h4>Cybersecurity Essentials: Segurança de
