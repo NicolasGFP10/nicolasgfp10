@@ -14,7 +14,7 @@
   <table align="center" class="table table-borderless table-dark" Width="95%">
     <thead>
       <tr>
-        <th scope="col"><center>Icône</center></th>
+        <th scope="col"><center>Ícone</center></th>
         <th scope="col"><center>Instituição</center></th>
         <th scope="col"><center>Curso</center></th>
         <th scope="col"><center>Estado</center></th>
