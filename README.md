@@ -10,6 +10,11 @@
 
 #### Sou uma pessoa que gosta de conversar e discutir sobre mudanças e melhorias nos projetos que atuo, além de ser uma pessoa proativa e esforçada em tudo o que faço.
 
+## Minhas Estatísticas
+<center>
+
+![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasgfp10&show_icons=true&theme=tokyonight)
+</center>
 
 
 ## Minhas Formações 📖
@@ -75,7 +80,7 @@
 </table></center>
 
 
-![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasgfp10&show_icons=true&theme=tokyonight)
+
 
 
 
