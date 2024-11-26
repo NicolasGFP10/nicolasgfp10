@@ -53,51 +53,74 @@
     </thead>
     <tr>
       <td><img alt="logo ETEC de Nova Odessa" src="https://precoltec.com.br/wp-content/uploads/2018/06/etec-novaodessa.jpg" display="block" width="80"></td>
-      <td><h2>ETEC DE NOVA ODESSA</h2></td>
-      <td><h3>Desenvolvimento de Sistemas</h3></td>
-      <td>Concludo</td>
+      <td><h4>ETEC DE NOVA ODESSA</h4></td>
+      <td><h4>Desenvolvimento de Sistemas</h4></td>
+      <td><h4>Concluído ✅<h4></td>
     </tr>
     <tr>
       <td><img alt="logo FATEC de Americana" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb32exkq4YBVxFYTfVuHdBiWxHnUBCZ3hfLg&s" display="block" width="80"></td>
-      <td><h3>FATEC DE AMERICANA</h3></td>
-      <td><h3>Análise e Desenvolvimento de Sistemas</h3></td>
-      <td>Cursando</td>
+      <td><h4>FATEC DE AMERICANA</h4></td>
+      <td><h4>Análise e Desenvolvimento de Sistemas</h4></td>
+      <td><h4>Cursando 🕒<h4></td>
     </tr>
   </table>
 </center>
 
 ## Cursos Realizados 👨‍💻
 
-<center><table Width="90%" class="table table-striped table-dark">
-  <thead>
+<center>
+  <table align="center" class="table table-borderless table-dark" Width="98%">
+    <thead>
+      <tr>
+        <th scope="col"><center>Nomde do Curso</center></th>
+        <th scope="col"><center>Instituição</center></th>
+        <th scope="col"><center>Duração</center></th>
+        <th scope="col"><center>Descrição</center></th>
+        <th scope="col"><center>Estado</center></th>
+      </tr>
+    </thead>
     <tr>
-      <th scope="col">#</th>
-      <th scope="col">First</th>
-      <th scope="col">Last</th>
-      <th scope="col">Handle</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">1</th>
-      <td>Mark</td>
-      <td>Otto</td>
-      <td>@mdo</td>
-    </tr>
-    <tr>
-      <th scope="row">2</th>
-      <td>Jacob</td>
-      <td>Thornton</td>
-      <td>@fat</td>
+      <td><h4>Fundamentos de TI</h4></td>
+      <td><h4>Cisco NetWorking Academy</h4></td>
+      <td><h4>60h</h4></td>
+      <td><h4>Curso de Fundamentos de Ti (técnico de
+ informática) pela Cisco NetWorking Academy</h4></td>
+      <td><h4>Concluído ✅<h4></td>
     </tr>
     <tr>
-      <th scope="row">3</th>
-      <td>Larry</td>
-      <td>the Bird</td>
-      <td>@twitter</td>
+      <td><h4>Cybersecurity Essentials: Segurança de
+ endpoint (ESec)</h4></td>
+      <td><h4>Cisco NetWorking Academy</h4></td>
+      <td><h4>27h</h3></td>
+      <td><h4>Curso de Segurança de endpoint intermediário pela Cisco
+ NetWorking Academy</h4></td>
+      <td><h4>Concluído ✅<h4></td>
     </tr>
-  </tbody>
-</table></center>
+    <tr>
+      <td><h4>Fundamentos em Programação C#</h4></td>
+      <td><h4> Senai
+ Alvarez Romi</h4></td>
+      <td><h4>120h</h4></td>
+      <td><h4> Curso de Programação em C# (Terminal e WindowsForm) pelo instituto Senai Alvarez Romi</h4></td>
+      <td><h4>Concluído ✅<h4></td>
+    </tr>
+    <tr>
+      <td><h4>Trabalhando com API’s C# / Java Script</h4></td>
+      <td><h4>FATEC de Americana "Ministro Ralph Biasi"</h4></td>
+      <td><h4>12h</h4></td>
+      <td><h4>Curso de criação e consumo de API’s usando C# e
+ Java Script pela FATEC de Americana "Ministro Ralph Biasi"</h4></td>
+      <td><h4>Concluído ✅<h4></td>
+    </tr>
+    <!--  <tr>
+      <td><h4></h4></td>
+      <td><h4></h4></td>
+      <td><h4></h4></td>
+      <td><h4></h4></td>
+      <td><h4>Concluído ✅<h4></td>
+    </tr> -->
+  </table>
+</center>
 
 
 
