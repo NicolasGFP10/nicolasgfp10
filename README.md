@@ -14,7 +14,7 @@
   <table align="center" class="table table-borderless table-dark" Width="95%">
     <thead>
       <tr>
-        <th scope="col"><center>Logo</center></th>
+        <th scope="col"><center>Icône</center></th>
         <th scope="col"><center>Instituição</center></th>
         <th scope="col"><center>Curso</center></th>
         <th scope="col"><center>Estado</center></th>
@@ -28,7 +28,7 @@
     </tr>
     <tr>
       <td><img alt="logo FATEC de Americana" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb32exkq4YBVxFYTfVuHdBiWxHnUBCZ3hfLg&s" display="block" width="80"></td>
-      <td><center><h3>FATEC DE AMERICANA</h3></center></td>
+      <td><h3>FATEC DE AMERICANA</h3></td>
       <td><h3>Análise e Desenvolvimento de Sistemas</h3></td>
       <td>Cursando</td>
     </tr>
