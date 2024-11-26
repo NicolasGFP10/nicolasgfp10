@@ -11,7 +11,7 @@
 ## Formações 📖
 
 <center>
-  <table class="table table-borderless table-dark" Width="95%">
+  <table align="center" class="table table-borderless table-dark" Width="95%">
     <thead>
       <tr>
         <th scope="col"><center>Logo</center></th>
