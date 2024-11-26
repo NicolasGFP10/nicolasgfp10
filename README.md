@@ -6,9 +6,9 @@
 
 ## Sobre mim ✌
 
-#### Meu nome é Nicolas Gabriel, tenho 19 anos e sempre estou estudando para me tornar um excelente Dev. Back-End! 
+#### Meu nome é Nicolas Gabriel, tenho 19 anos e sempre estou estudando para me tornar um excelente Dev. Back-End!
 
-#### Sou uma pessoa que gosta de conversar e discutir sobre mudanças e melhorias nos projetos que atuo, além de ser uma pessoa proativa e esforçada em tudo o que faço.
+#### Sou uma pessoa bastante calma e compreensiva, gosto de ouvir o lado da outra pessoa para poder ajudar ela e compreendela com seus problemas, considero isso o básico para um programador de respeito, além disso, sou uma pessoa que gosta de conversar e discutir sobre mudanças e melhorias nos projetos que atuo, além de ser uma pessoa proativa e esforçada em tudo o que faço.
 
 ## Minhas Estatísticas 📄
 
