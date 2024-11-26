@@ -69,7 +69,7 @@
 ## Cursos Realizados 👨‍💻
 
 <center>
-  <table align="center" class="table table-borderless table-dark" Width="98%">
+  <table align="center" class="table table-borderless table-dark" Width="100%">
     <thead>
       <tr>
         <th scope="col"><center>Nomde do Curso</center></th>
