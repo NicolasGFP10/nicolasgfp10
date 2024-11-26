@@ -8,13 +8,15 @@
 
 #### Meu nome é Nicolas Gabriel, tenho 19 anos e sempre estou estudando para me tornar um excelente Dev. Back-End!
 
-## Formações
+## Formações 📖
 
 <center><table class="table table-borderless table-dark" Width="100%">
     <tr>
         <td><img alt="logo ETEC de Nova Odessa" src="https://precoltec.com.br/wp-content/uploads/2018/06/etec-novaodessa.jpg" display="block" width="80"></td>
         <td><h2>ETEC DE NOVA ODESSA (Curso: DS)</h2></td>
         <td>Concludo</td>
+    </tr>
+    <tr>
         <td><img alt="logo FATEC de Americana" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb32exkq4YBVxFYTfVuHdBiWxHnUBCZ3hfLg&s" display="block" width="80"></td>
         <td><h2>FATEC DE AMERICANA (Curso: ADS)</h2></td>
         <td>Cursando</td>
