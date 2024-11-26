@@ -12,7 +12,20 @@
 
 ## Minhas Estatísticas 📄
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=nicolasgfp10&show_icons=true&theme=tokyonight">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasgfp10&layout=donut">
+    </td>
+  </tr>
+</table>
+
 ![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasgfp10&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasgfp10&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Linguagens que tenho esperiência 💻
 
