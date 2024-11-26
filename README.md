@@ -94,7 +94,7 @@
       <td><h4>27h</h3></td>
       <td><h4>Curso de Segurança de endpoint intermediário pela Cisco
  NetWorking Academy</h4></td>
-      <td><h4>Concluído ✅<h4></td>
+      <td><h4>Concluído✅<h4></td>
     </tr>
     <tr>
       <td><h4>Fundamentos em Programação C#</h4></td>
@@ -102,7 +102,7 @@
  Alvarez Romi</h4></td>
       <td><h4>120h</h4></td>
       <td><h4> Curso de Programação em C# (Terminal e WindowsForm) pelo instituto Senai Alvarez Romi</h4></td>
-      <td><h4>Concluído ✅<h4></td>
+      <td><h4>Concluído✅<h4></td>
     </tr>
     <tr>
       <td><h4>Trabalhando com API’s C# / Java Script</h4></td>
@@ -110,7 +110,7 @@
       <td><h4>12h</h4></td>
       <td><h4>Curso de criação e consumo de API’s usando C# e
  Java Script pela FATEC de Americana "Ministro Ralph Biasi"</h4></td>
-      <td><h4>Concluído ✅<h4></td>
+      <td><h4>Concluído✅<h4></td>
     </tr>
     <!--  <tr>
       <td><h4></h4></td>
