@@ -10,18 +10,30 @@
 
 ## Formações 📖
 
-<center><table class="table table-borderless table-dark" Width="100%">
+<center>
+  <table class="table table-borderless table-dark" Width="95%">
+    <thead>
+      <tr>
+        <th scope="col"><center>Logo</center></th>
+        <th scope="col"><center>Instituição</center></th>
+        <th scope="col"><center>Curso</center></th>
+        <th scope="col"><center>Estado</center></th>
+      </tr>
+    </thead>
     <tr>
-        <td><img alt="logo ETEC de Nova Odessa" src="https://precoltec.com.br/wp-content/uploads/2018/06/etec-novaodessa.jpg" display="block" width="80"></td>
-        <td><h2>ETEC DE NOVA ODESSA (Curso: DS)</h2></td>
-        <td>Concludo</td>
+      <td><img alt="logo ETEC de Nova Odessa" src="https://precoltec.com.br/wp-content/uploads/2018/06/etec-novaodessa.jpg" display="block" width="80"></td>
+      <td><h2>ETEC DE NOVA ODESSA</h2></td>
+      <td><h3>Desenvolvimento de Sistemas</h3></td>
+      <td>Concludo</td>
     </tr>
     <tr>
-        <td><img alt="logo FATEC de Americana" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb32exkq4YBVxFYTfVuHdBiWxHnUBCZ3hfLg&s" display="block" width="80"></td>
-        <td><h2>FATEC DE AMERICANA (Curso: ADS)</h2></td>
-        <td>Cursando</td>
-        </tr>
-</table></center>
+      <td><img alt="logo FATEC de Americana" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb32exkq4YBVxFYTfVuHdBiWxHnUBCZ3hfLg&s" display="block" width="80"></td>
+      <td><h3>FATEC DE AMERICANA</h3></td>
+      <td><h3>Análise e Desenvolvimento de Sistemas</h3></td>
+      <td>Cursando</td>
+    </tr>
+  </table>
+</center>
 
 
 
