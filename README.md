@@ -1,16 +1,16 @@
 
-# Seja bem-vindo ao meu perfil! 😀
+# Seja bem-vindo ao meu perfil!
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolasgfpdev/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_nic.0las/)
 
-## Sobre mim ✌
+## Sobre mim
 
 #### Meu nome é Nicolas Gabriel, tenho 19 anos e sempre estou estudando para me tornar um excelente Dev. Back-End!
 
 #### Sou uma pessoa bastante calma e compreensiva, gosto de ouvir o lado da outra pessoa para poder ajudar ela e compreendela com seus problemas, considero isso o básico para um programador de respeito, além disso, sou uma pessoa que gosta de conversar e discutir sobre mudanças e melhorias nos projetos que atuo, além de ser uma pessoa proativa e esforçada em tudo o que faço.
 
-## Minhas Estatísticas 📄
+## Minhas Estatísticas
 
 <table>
   <tr>
@@ -27,7 +27,7 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasgfp10&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
 
-## Linguagens que tenho experiência 💻
+## Linguagens que tenho experiência
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -35,10 +35,9 @@
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="css3" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="css3" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img align="center" alt="css3" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
 
-## Minhas Formações 📖
+## Minhas Formações
 
 <center>
   <table align="center" class="table table-borderless table-dark" Width="98%">
@@ -65,7 +64,7 @@
   </table>
 </center>
 
-## Cursos Realizados 👨‍💻
+## Cursos Realizados
 
 <center>
   <table align="center" class="table table-borderless table-dark" Width="100%">
