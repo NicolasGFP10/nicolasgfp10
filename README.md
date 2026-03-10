@@ -10,23 +10,6 @@
 
 #### Sou uma pessoa bastante calma e compreensiva, gosto de ouvir o lado da outra pessoa para poder ajudar ela e compreendela com seus problemas, considero isso o básico para um programador de respeito, além disso, sou uma pessoa que gosta de conversar e discutir sobre mudanças e melhorias nos projetos que atuo, além de ser uma pessoa proativa e esforçada em tudo o que faço.
 
-## Minhas Estatísticas
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=nicolasgfp10&show_icons=true&theme=tokyonight">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasgfp10&layout=donut">
-    </td>
-  </tr>
-</table>
-
-<!-- ![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasgfp10&show_icons=true&theme=tokyonight) -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasgfp10&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
-
 ## Linguagens que tenho experiência
 
 <div style="display: inline_block">
@@ -35,8 +18,7 @@
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img align="center" alt="go" src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge">
-  <img align="center" alt="go" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </div>
 
 ## Minhas Formações
