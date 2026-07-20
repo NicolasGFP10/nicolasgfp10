@@ -34,7 +34,7 @@
       </tr>
     </thead>
     <tr>
-      <td><img alt="logo ETEC de Nova Odessa" src="https://precoltec.com.br/wp-content/uploads/2018/06/etec-novaodessa.jpg" display="block" width="80"></td>
+      <td><img alt="logo ETEC de Nova Odessa" src="https://www.precoltec.com.br/api/uploads/1b12d1914078a1aa.jpg" display="block" width="80"></td>
       <td><h4>ETEC DE NOVA ODESSA</h4></td>
       <td><h4>Desenvolvimento de Sistemas</h4></td>
       <td><h4>Concluído ✅<h4></td>
